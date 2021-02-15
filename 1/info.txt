@@ -1,18 +1,18 @@
 
 Hope you enjoy your new logo, here are the people that
 made your beautiful logo happen :)
-font name: NewsCycle-Bold
-font link: https://fonts.google.com/specimen/News+Cycle
-font author: Nathan Willis
-font author site: https://www.glyphography.com/fonts/
+font name: Cabin-Regular
+font link: https://fonts.google.com/specimen/Cabin
+font author: Impallari Type
+font author site: www.impallari.com
 
 
-icon designer: Bernar  Novalyi
-icon designer link: /bernar.novalyi
+icon designer: Med Marki
+icon designer link: /mb.icons
         
 
-fontColor: {"hex":"#2B4331"}
-bgColor: {"hex":"#FFFFFF"}
-iconColor: {"hex":"#2B4331"}
+fontColor: {"hex":"#2f2707"}
+bgColor: {"hex":"transparent"}
+iconColor: {"hex":"#2f2707"}
 
       
