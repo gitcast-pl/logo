@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: NewsCycle-Bold
+font link: https://fonts.google.com/specimen/News+Cycle
+font author: Nathan Willis
+font author site: https://www.glyphography.com/fonts/
+
+
+icon designer: Bernar  Novalyi
+icon designer link: /bernar.novalyi
+        
+
+fontColor: {"hex":"#2B4331"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#2B4331"}
+
+      
